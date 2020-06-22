@@ -1,0 +1,2 @@
+rootProject.name='ApplicationCreateMenuKotlin'
+include ':app'
